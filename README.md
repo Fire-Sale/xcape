@@ -1,6 +1,9 @@
 XCAPE
 =====
-
+参考资料 寒假写
+https://www.cnblogs.com/zhaoyu1995/p/6288412.html
+https://www.zhihu.com/question/28643416
+http://blog.csdn.net/atupal/article/details/8155783
 xcape allows you to use a modifier key as another key when pressed and
 released on its own. Note that it is slightly slower than pressing the
 original key, because the pressed event does not occur until the key is
